@@ -43,4 +43,5 @@ $ npm install
 # Rode o projeto
 
 $ npm run dev
+$ npm run dev:server
 ```
